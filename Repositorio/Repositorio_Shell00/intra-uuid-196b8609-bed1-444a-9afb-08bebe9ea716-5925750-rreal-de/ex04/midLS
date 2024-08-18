@@ -1,0 +1,4 @@
+#!/bin/bash
+
+ls -la -t -p -m --file-type  --ignore='.*' --ignore='.' --ignore='..'
+
